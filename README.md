@@ -9,7 +9,7 @@ dotnet add package Selenium.WebDriver.ChromeDriver
 
 
 -----labr 3--------
-Разрешите запуск скриптов, выполнив команду:
+Разрешение запусков скриптов:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 установка scoop:
