@@ -5,8 +5,10 @@ dotnet run
 в случае ошибок:
 dotnet add package Selenium.WebDriver
 dotnet add package Selenium.WebDriver.ChromeDriver
-//////////////////////////////////////////////////////////////
--labr 3
+
+
+
+-----labr 3--------
 Разрешите запуск скриптов, выполнив команду:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
