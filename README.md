@@ -17,3 +17,6 @@ irm get.scoop.sh | iex
 
 установка allure:
 scoop install allure
+
+------quest 4------
+git clone https://github.com/tAngE-l/test/tree/master/check
